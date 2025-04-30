@@ -1,0 +1,6 @@
+re
+numpy
+pytesseract
+mss
+obsws_python
+logging
